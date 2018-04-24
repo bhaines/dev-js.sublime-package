@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[console.log("$1: " + JSON.stringify($1, null, 4));]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>clo</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.js</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Console Log JSON Stringify</description>
+</snippet>
